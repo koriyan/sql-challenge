@@ -5,7 +5,7 @@
 #### Data Modeling
 
 Inspect the CSVs and sketch out an ERD of the tables. 
-![ERD.png](ERD.png)
+![QuickDBD-Kori's ERD.png](QuickDBD-Kori's ERD.png)
 
 #### Data Engineering
 
